@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StatesUSA</string>
+    <string name="name">State Name: </string>
+    <string name="abbrev">Abbreviation: </string>
+    <string name="area">Area: </string>
+    <string name="capital">Capital: </string>
+    <string name="mpc">Most populous city: </string>
+    <string name="pop">Population: </string>
+</resources>

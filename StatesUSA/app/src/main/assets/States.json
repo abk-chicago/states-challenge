@@ -1,0 +1,454 @@
+{
+  "states" : [
+    {
+      "capital" : "Montgomery",
+      "abbreviation" : "AL",
+      "population" : 4708708,
+      "area" : 52423,
+      "mostPopulousCity" : "Birmingham",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0alf.gif",
+      "name" : "ALABAMA"
+    },
+    {
+      "capital" : "Juneau",
+      "abbreviation" : "AK",
+      "population" : 698473,
+      "area" : 656425,
+      "mostPopulousCity" : "Anchorage",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0akf.gif",
+      "name" : "ALASKA"
+    },
+    {
+      "capital" : "Phoenix",
+      "abbreviation" : "AZ",
+      "population" : 6595778,
+      "area" : 114006,
+      "mostPopulousCity" : "Phoenix",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0azf.gif",
+      "name" : "ARIZONA"
+    },
+    {
+      "capital" : "Little Rock",
+      "abbreviation" : "AR",
+      "population" : 2889450,
+      "area" : 53182,
+      "mostPopulousCity" : "Little Rock",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0arf.gif",
+      "name" : "ARKANSAS"
+    },
+    {
+      "capital" : "Sacramento",
+      "abbreviation" : "CA",
+      "population" : 36961664,
+      "area" : 163707,
+      "mostPopulousCity" : "Los Angeles",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0caf.gif",
+      "name" : "CALIFORNIA"
+    },
+    {
+      "capital" : "Denver",
+      "abbreviation" : "CO",
+      "population" : 5024748,
+      "area" : 104100,
+      "mostPopulousCity" : "Denver",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0cof.gif",
+      "name" : "COLORADO"
+    },
+    {
+      "capital" : "Hartford",
+      "abbreviation" : "CT",
+      "population" : 3518288,
+      "area" : 5544,
+      "mostPopulousCity" : "Bridgeport",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0ctf.gif",
+      "name" : "CONNECTICUT"
+    },
+    {
+      "capital" : "Dover",
+      "abbreviation" : "DE",
+      "population" : 885122,
+      "area" : 1954,
+      "mostPopulousCity" : "Wilmington",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0def.gif",
+      "name" : "DELAWARE"
+    },
+    {
+      "capital" : "Tallahassee",
+      "abbreviation" : "FL",
+      "population" : 18537969,
+      "area" : 65758,
+      "mostPopulousCity" : "Jacksonville",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0flf.gif",
+      "name" : "FLORIDA"
+    },
+    {
+      "capital" : "Atlanta",
+      "abbreviation" : "GA",
+      "population" : 9829211,
+      "area" : 59441,
+      "mostPopulousCity" : "Atlanta",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0gaf.gif",
+      "name" : "GEORGIA"
+    },
+    {
+      "capital" : "Honolulu",
+      "abbreviation" : "HI",
+      "population" : 1295178,
+      "area" : 10932,
+      "mostPopulousCity" : "Honolulu",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0hif.gif",
+      "name" : "HAWAII"
+    },
+    {
+      "capital" : "Boise",
+      "abbreviation" : "ID",
+      "population" : 1545801,
+      "area" : 83574,
+      "mostPopulousCity" : "Boise",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0idf.gif",
+      "name" : "IDAHO"
+    },
+    {
+      "capital" : "Springfield",
+      "abbreviation" : "IL",
+      "population" : 12910409,
+      "area" : 57918,
+      "mostPopulousCity" : "Chicago",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0ilf.gif",
+      "name" : "ILLINOIS"
+    },
+    {
+      "capital" : "Indianapolis",
+      "abbreviation" : "IN",
+      "population" : 6423113,
+      "area" : 36420,
+      "mostPopulousCity" : "Indianapolis",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0inf.gif",
+      "name" : "INDIANA"
+    },
+    {
+      "capital" : "Des Moines",
+      "abbreviation" : "IA",
+      "population" : 3007856,
+      "area" : 56276,
+      "mostPopulousCity" : "Des Moines",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0iaf.gif",
+      "name" : "IOWA"
+    },
+    {
+      "capital" : "Topeka",
+      "abbreviation" : "KS",
+      "population" : 2818747,
+      "area" : 82282,
+      "mostPopulousCity" : "Wichita",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0ksf.gif",
+      "name" : "KANSAS"
+    },
+    {
+      "capital" : "Frankfort",
+      "abbreviation" : "KY",
+      "population" : 4314113,
+      "area" : 40411,
+      "mostPopulousCity" : "Louisville",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0kyf.gif",
+      "name" : "KENTUCKY"
+    },
+    {
+      "capital" : "Baton Rouge",
+      "abbreviation" : "LA",
+      "population" : 4492076,
+      "area" : 51843,
+      "mostPopulousCity" : "New Orleans",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0laf.gif",
+      "name" : "LOUISIANA"
+    },
+    {
+      "capital" : "Augusta",
+      "abbreviation" : "ME",
+      "population" : 1318301,
+      "area" : 35387,
+      "mostPopulousCity" : "Portland",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0mef.gif",
+      "name" : "MAINE"
+    },
+    {
+      "capital" : "Annapolis",
+      "abbreviation" : "MD",
+      "population" : 5699478,
+      "area" : 12407,
+      "mostPopulousCity" : "Baltimore",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0mdf.gif",
+      "name" : "MARYLAND"
+    },
+    {
+      "capital" : "Boston",
+      "abbreviation" : "MA",
+      "population" : 6593587,
+      "area" : 10555,
+      "mostPopulousCity" : "Boston",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0maf.gif",
+      "name" : "MASSACHUSETTS"
+    },
+    {
+      "capital" : "Lansing",
+      "abbreviation" : "MI",
+      "population" : 9969727,
+      "area" : 96810,
+      "mostPopulousCity" : "Detroit",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0mif.gif",
+      "name" : "MICHIGAN"
+    },
+    {
+      "capital" : "Saint Paul",
+      "abbreviation" : "MN",
+      "population" : 5266214,
+      "area" : 86943,
+      "mostPopulousCity" : "Minneapolis",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0mnf.gif",
+      "name" : "MINNESOTA"
+    },
+    {
+      "capital" : "Jackson",
+      "abbreviation" : "MS",
+      "population" : 2951996,
+      "area" : 48434,
+      "mostPopulousCity" : "Jackson",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0msf.gif",
+      "name" : "MISSISSIPPI"
+    },
+    {
+      "capital" : "Jefferson City",
+      "abbreviation" : "MO",
+      "population" : 5987580,
+      "area" : 69709,
+      "mostPopulousCity" : "Kansas City",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0mof.gif",
+      "name" : "MISSOURI"
+    },
+    {
+      "capital" : "Helena",
+      "abbreviation" : "MT",
+      "population" : 974989,
+      "area" : 147046,
+      "mostPopulousCity" : "Billings",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0mtf.gif",
+      "name" : "MONTANA"
+    },
+    {
+      "capital" : "Lincoln",
+      "abbreviation" : "NE",
+      "population" : 1796619,
+      "area" : 77358,
+      "mostPopulousCity" : "Omaha",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0nef.gif",
+      "name" : "NEBRASKA"
+    },
+    {
+      "capital" : "Carson City",
+      "abbreviation" : "NV",
+      "population" : 2643085,
+      "area" : 110567,
+      "mostPopulousCity" : "Las Vegas",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0nvf.gif",
+      "name" : "NEVADA"
+    },
+    {
+      "capital" : "Concord",
+      "abbreviation" : "NH",
+      "population" : 1324575,
+      "area" : 9351,
+      "mostPopulousCity" : "Machester",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0nhf.gif",
+      "name" : "NEW HAMPSHIRE"
+    },
+    {
+      "capital" : "Trenton",
+      "abbreviation" : "NJ",
+      "population" : 8707739,
+      "area" : 8722,
+      "mostPopulousCity" : "Newark",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0njf.gif",
+      "name" : "NEW JERSEY"
+    },
+    {
+      "capital" : "Santa Fe",
+      "abbreviation" : "NM",
+      "population" : 2009671,
+      "area" : 121593,
+      "mostPopulousCity" : "Albuquerque",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0nmf.gif",
+      "name" : "NEW MEXICO"
+    },
+    {
+      "capital" : "Albany",
+      "abbreviation" : "NY",
+      "population" : 19541453,
+      "area" : 54475,
+      "mostPopulousCity" : "New York",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0nyf.gif",
+      "name" : "NEW YORK"
+    },
+    {
+      "capital" : "Raleigh",
+      "abbreviation" : "NC",
+      "population" : 9380884,
+      "area" : 53821,
+      "mostPopulousCity" : "Charlotte",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0ncf.gif",
+      "name" : "NORTH CAROLINA"
+    },
+    {
+      "capital" : "Bismarck",
+      "abbreviation" : "ND",
+      "population" : 646844,
+      "area" : 70704,
+      "mostPopulousCity" : "Fargo",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0ndf.gif",
+      "name" : "NORTH DAKOTA"
+    },
+    {
+      "capital" : "Columbus",
+      "abbreviation" : "OH",
+      "population" : 11542645,
+      "area" : 44828,
+      "mostPopulousCity" : "Columbus",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0ohf.gif",
+      "name" : "OHIO"
+    },
+    {
+      "capital" : "Oklahoma City",
+      "abbreviation" : "OK",
+      "population" : 3687050,
+      "area" : 69903,
+      "mostPopulousCity" : "Oklahoma City",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0okf.gif",
+      "name" : "OKLAHOMA"
+    },
+    {
+      "capital" : "Salem",
+      "abbreviation" : "OR",
+      "population" : 3825657,
+      "area" : 98386,
+      "mostPopulousCity" : "Portland",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0orf.gif",
+      "name" : "OREGON"
+    },
+    {
+      "capital" : "Harrisburg",
+      "abbreviation" : "PA",
+      "population" : 12604767,
+      "area" : 46058,
+      "mostPopulousCity" : "Philadelphia",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0paf.gif",
+      "name" : "PENNSYLVANIA"
+    },
+    {
+      "capital" : "Providence",
+      "abbreviation" : "RI",
+      "population" : 1053209,
+      "area" : 1545,
+      "mostPopulousCity" : "Providence",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0rif.gif",
+      "name" : "RHODE ISLAND"
+    },
+    {
+      "capital" : "Columbia",
+      "abbreviation" : "SC",
+      "population" : 4561242,
+      "area" : 32007,
+      "mostPopulousCity" : "Columbia",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0scf.gif",
+      "name" : "SOUTH CAROLINA"
+    },
+    {
+      "capital" : "Pierre",
+      "abbreviation" : "SD",
+      "population" : 812383,
+      "area" : 77121,
+      "mostPopulousCity" : "Sioux Falls",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0sdf.gif",
+      "name" : "SOUTH DAKOTA"
+    },
+    {
+      "capital" : "Nashville",
+      "abbreviation" : "TN",
+      "population" : 6296254,
+      "area" : 42146,
+      "mostPopulousCity" : "Memphis",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0tnf.gif",
+      "name" : "TENNESSEE"
+    },
+    {
+      "capital" : "Austin",
+      "abbreviation" : "TX",
+      "population" : 24782302,
+      "area" : 268601,
+      "mostPopulousCity" : "Houston",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0txf.gif",
+      "name" : "TEXAS"
+    },
+    {
+      "capital" : "Salt Lake City",
+      "abbreviation" : "UT",
+      "population" : 2784572,
+      "area" : 84904,
+      "mostPopulousCity" : "Salt Lake City",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0utf.gif",
+      "name" : "UTAH"
+    },
+    {
+      "capital" : "Montpelier",
+      "abbreviation" : "VT",
+      "population" : 621760,
+      "area" : 9615,
+      "mostPopulousCity" : "Burlington",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0vtf.gif",
+      "name" : "VERMONT"
+    },
+    {
+      "capital" : "Richmond",
+      "abbreviation" : "VA",
+      "population" : 7882590,
+      "area" : 42769,
+      "mostPopulousCity" : "Virginia Beach",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0vaf.gif",
+      "name" : "VIRGINIA"
+    },
+    {
+      "capital" : "Olympia",
+      "abbreviation" : "WA",
+      "population" : 6664195,
+      "area" : 71303,
+      "mostPopulousCity" : "Seattle",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0waf.gif",
+      "name" : "WASHINGTON"
+    },
+    {
+      "capital" : "Charleston",
+      "abbreviation" : "WV",
+      "population" : 1819777,
+      "area" : 24231,
+      "mostPopulousCity" : "Charleston",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0wvf.gif",
+      "name" : "WEST VIRGINIA"
+    },
+    {
+      "capital" : "Madison",
+      "abbreviation" : "WI",
+      "population" : 5654774,
+      "area" : 65503,
+      "mostPopulousCity" : "Milwaukee",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0wif.gif",
+      "name" : "WISCONSIN"
+    },
+    {
+      "capital" : "Cheyenne",
+      "abbreviation" : "WY",
+      "population" : 544270,
+      "area" : 97818,
+      "mostPopulousCity" : "Cheyenne",
+      "flagURL" : "http:\/\/www.50states.com\/no\/0wyf.gif",
+      "name" : "WYOMING"
+    }
+  ]
+}
